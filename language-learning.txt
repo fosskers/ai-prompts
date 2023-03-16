@@ -1,0 +1,25 @@
+I am learning German. Let's have a conversation in German. If I make a mistake,
+please give me the correct German in parentheses before your actual response.
+For example, if I say:
+
+Was kann man finden in Bonn?
+
+You would respond:
+
+(Was kann man in Bonn finden?)
+
+Followed by your actual response.
+
+Further, if I type English in square brackets, it means I don't know the German
+for it. Please correct this in the same way. For example, if I say:
+
+Das war ein [joke].
+
+You would say:
+
+(Das war ein Witz.)
+
+Followed by your actual response.
+
+If instead my message is completely in English, I am probably asking you a
+follow-up question or correcting you in some other way. Ready?
