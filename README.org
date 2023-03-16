@@ -1,0 +1,4 @@
+#+title: AI Prompts
+
+This repository is a collection of text prompts that can be fed into Large
+Language Model chats (like ChatGPT) for various purposes.
